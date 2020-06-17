@@ -1,0 +1,18 @@
+﻿<Window x:Class="PersonaAutoPatcher.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PersonaAutoPatcher"
+        mc:Ignorable="d"
+        Title="PersonaAutoPatcher for P4G PC" Height="188" Width="273" ResizeMode="NoResize">
+    <Grid>
+        <Menu VerticalAlignment="Top" Height="20">
+            <MenuItem Header="Unpack .pac" Click="MenuItem_OnClick"></MenuItem>
+        </Menu>
+        <Button Content="Patch .pac" HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Center" Width="120" Height="34" Click="Button_Click"/>
+        <Button Content="Backup .pac" Margin="137,0,0,0" VerticalAlignment="Center" HorizontalAlignment="Left" Width="115" Height="34" Click="Button_Click_1"/>
+        <Label x:Name="StatusLabel" HorizontalContentAlignment="Center" Content="Status" Margin="10,119,21,0" Height="26" VerticalAlignment="Top"/>
+        <Label x:Name="CurrentFile" Content="Label" HorizontalAlignment="Left" Margin="10,25,0,0" VerticalAlignment="Top" Width="242"/>
+    </Grid>
+</Window>
