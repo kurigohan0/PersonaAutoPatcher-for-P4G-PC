@@ -1,4 +1,4 @@
-# PersonaAutoPacher-for-P4G-PC
+# PersonaAutoPatcher-for-P4G-PC
 
 Please, check settings.txt
 
