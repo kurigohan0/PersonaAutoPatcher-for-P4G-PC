@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Evgeny\\source\\repos\\PersonaAutoPatcher\\PersonaAutoPatcher\\PersonaAutoPatcher.csproj": {}
+    "C:\\Users\\Evgeny\\Documents\\GitHub\\PersonaAutoPatcher\\PersonaAutoPacher-for-P4G-PC\\PersonaAutoPatcher\\PersonaAutoPatcher.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Evgeny\\source\\repos\\PersonaAutoPatcher\\PersonaAutoPatcher\\PersonaAutoPatcher.csproj": {
-      "version": "1.0.0",
+    "C:\\Users\\Evgeny\\Documents\\GitHub\\PersonaAutoPatcher\\PersonaAutoPacher-for-P4G-PC\\PersonaAutoPatcher\\PersonaAutoPatcher.csproj": {
+      "version": "0.9.1",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Evgeny\\source\\repos\\PersonaAutoPatcher\\PersonaAutoPatcher\\PersonaAutoPatcher.csproj",
+        "projectUniqueName": "C:\\Users\\Evgeny\\Documents\\GitHub\\PersonaAutoPatcher\\PersonaAutoPacher-for-P4G-PC\\PersonaAutoPatcher\\PersonaAutoPatcher.csproj",
         "projectName": "PersonaAutoPatcher",
-        "projectPath": "C:\\Users\\Evgeny\\source\\repos\\PersonaAutoPatcher\\PersonaAutoPatcher\\PersonaAutoPatcher.csproj",
+        "projectPath": "C:\\Users\\Evgeny\\Documents\\GitHub\\PersonaAutoPatcher\\PersonaAutoPacher-for-P4G-PC\\PersonaAutoPatcher\\PersonaAutoPatcher.csproj",
         "packagesPath": "C:\\Users\\Evgeny\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Evgeny\\source\\repos\\PersonaAutoPatcher\\PersonaAutoPatcher\\obj\\",
+        "outputPath": "C:\\Users\\Evgeny\\Documents\\GitHub\\PersonaAutoPatcher\\PersonaAutoPacher-for-P4G-PC\\PersonaAutoPatcher\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Evgeny\\AppData\\Roaming\\NuGet\\NuGet.Config",

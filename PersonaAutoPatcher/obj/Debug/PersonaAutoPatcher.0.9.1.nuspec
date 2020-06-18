@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PersonaAutoPatcher</id>
+    <version>0.9.1</version>
+    <authors>Evgeny Nasonov (kurigohan0)</authors>
+    <owners>Evgeny Nasonov (kurigohan0)</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <icon>icon.ico</icon>
+    <projectUrl>https://github.com/kurigohan0/PersonaAutoPatcher-for-P4G-PC</projectUrl>
+    <description>Package Description</description>
+    <copyright>Evgeny Nasonov (kurigohan0), Luigi Auriemma</copyright>
+    <repository type="Git" url="https://github.com/kurigohan0/PersonaAutoPatcher-for-P4G-PC" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="newtonsoft.json" version="12.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\Evgeny\Documents\GitHub\PersonaAutoPatcher\PersonaAutoPacher-for-P4G-PC\PersonaAutoPatcher\bin\Debug\netcoreapp3.1\PersonaAutoPatcher.runtimeconfig.json" target="lib\netcoreapp3.1\PersonaAutoPatcher.runtimeconfig.json" />
+    <file src="C:\Users\Evgeny\Documents\GitHub\PersonaAutoPatcher\PersonaAutoPacher-for-P4G-PC\PersonaAutoPatcher\bin\Debug\netcoreapp3.1\PersonaAutoPatcher.dll" target="lib\netcoreapp3.1\PersonaAutoPatcher.dll" />
+    <file src="C:\Users\Evgeny\Documents\GitHub\PersonaAutoPatcher\PersonaAutoPacher-for-P4G-PC\PersonaAutoPatcher\icon.ico" target="icon.ico" />
+  </files>
+</package>

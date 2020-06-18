@@ -6,10 +6,28 @@
     <UseWPF>true</UseWPF>
     <ApplicationManifest>app.manifest</ApplicationManifest>
     <ApplicationIcon>icon.ico</ApplicationIcon>
+    <Authors>Evgeny Nasonov (kurigohan0)</Authors>
+    <Company>kurigohan0</Company>
+    <Version>0.9.1</Version>
+    <Copyright>Evgeny Nasonov (kurigohan0), Luigi Auriemma</Copyright>
+    <PackageIcon>icon.ico</PackageIcon>
+    <PackageIconUrl />
+    <NeutralLanguage>en</NeutralLanguage>
+    <RepositoryType>Git</RepositoryType>
+    <RepositoryUrl>https://github.com/kurigohan0/PersonaAutoPatcher-for-P4G-PC</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/kurigohan0/PersonaAutoPatcher-for-P4G-PC</PackageProjectUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="newtonsoft.json" Version="12.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="icon.ico">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>

@@ -11,13 +11,15 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("PersonaAutoPatcher")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("kurigohan0")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyCopyrightAttribute("Evgeny Nasonov (kurigohan0), Luigi Auriemma")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("0.9.1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.9.1")]
 [assembly: System.Reflection.AssemblyProductAttribute("PersonaAutoPatcher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PersonaAutoPatcher")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("0.9.1.0")]
+[assembly: System.Resources.NeutralResourcesLanguageAttribute("en")]
 
 // Создано классом WriteCodeFragment MSBuild.
 
